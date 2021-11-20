@@ -71,7 +71,7 @@ class MainBanner extends Component {
                   data-wow-duration="1500ms"
                 >
                   <h2>Incrivel visita ao Amapá </h2>
-                  <h5>5 Dias , 5 Noites</h5>
+                  <h5>4 Dias</h5>
                   <div className="banner-btn">
                     <Link
                       to={`${process.env.PUBLIC_URL}/package`}
@@ -91,7 +91,7 @@ class MainBanner extends Component {
                   data-wow-duration="1500ms"
                 >
                   <h2>Incrivel visita a Ferreira Gomes </h2>
-                  <h5>7 Days, 8 Night Tour</h5>
+                  <h5>7 Dias</h5>
                   <div className="banner-btn">
                     <Link
                       to={`${process.env.PUBLIC_URL}/package`}

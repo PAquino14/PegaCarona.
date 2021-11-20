@@ -82,7 +82,7 @@ class BlogSidebar extends Component {
                             to={`${process.env.PUBLIC_URL}/blog-details`}
                             className="btn-common-sm"
                           >
-                            Read More
+                            Ler mais
                           </Link>
                         </div>
                       </div>
@@ -118,7 +118,7 @@ class BlogSidebar extends Component {
                             to={`${process.env.PUBLIC_URL}/blog-details`}
                             className="btn-common-sm"
                           >
-                            Read More
+                            Ler mais
                           </Link>
                         </div>
                       </div>
@@ -154,7 +154,7 @@ class BlogSidebar extends Component {
                             to={`${process.env.PUBLIC_URL}/blog-details`}
                             className="btn-common-sm"
                           >
-                            Read More
+                            Ler mais
                           </Link>
                         </div>
                       </div>
@@ -191,7 +191,7 @@ class BlogSidebar extends Component {
                             to={`${process.env.PUBLIC_URL}/blog-details`}
                             className="btn-common-sm"
                           >
-                            Read More
+                            Ler mais
                           </Link>
                         </div>
                       </div>
@@ -227,7 +227,7 @@ class BlogSidebar extends Component {
                             to={`${process.env.PUBLIC_URL}/blog-details`}
                             className="btn-common-sm"
                           >
-                            Read More
+                            Ler mais
                           </Link>
                         </div>
                       </div>
@@ -263,7 +263,7 @@ class BlogSidebar extends Component {
                             to={`${process.env.PUBLIC_URL}/blog-details`}
                             className="btn-common-sm"
                           >
-                            Read More
+                            Ler mais
                           </Link>
                         </div>
                       </div>
@@ -299,7 +299,7 @@ class BlogSidebar extends Component {
                             to={`${process.env.PUBLIC_URL}/blog-details`}
                             className="btn-common-sm"
                           >
-                            Read More
+                            Ler mais
                           </Link>
                         </div>
                       </div>
@@ -335,7 +335,7 @@ class BlogSidebar extends Component {
                             to={`${process.env.PUBLIC_URL}/blog-details`}
                             className="btn-common-sm"
                           >
-                            Read More
+                            Ler mais
                           </Link>
                         </div>
                       </div>
@@ -371,7 +371,7 @@ class BlogSidebar extends Component {
                             to={`${process.env.PUBLIC_URL}/blog-details`}
                             className="btn-common-sm"
                           >
-                            Read More
+                            Ler mais
                           </Link>
                         </div>
                       </div>
@@ -407,7 +407,7 @@ class BlogSidebar extends Component {
                             to={`${process.env.PUBLIC_URL}/blog-details`}
                             className="btn-common-sm"
                           >
-                            Read More
+                            Ler mais
                           </Link>
                         </div>
                       </div>
@@ -443,7 +443,7 @@ class BlogSidebar extends Component {
                             to={`${process.env.PUBLIC_URL}/blog-details`}
                             className="btn-common-sm"
                           >
-                            Read More
+                            Ler mais
                           </Link>
                         </div>
                       </div>
@@ -479,7 +479,7 @@ class BlogSidebar extends Component {
                             to={`${process.env.PUBLIC_URL}/blog-details`}
                             className="btn-common-sm"
                           >
-                            Read More
+                            Ler mais
                           </Link>
                         </div>
                       </div>

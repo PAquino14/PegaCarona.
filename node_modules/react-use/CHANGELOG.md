@@ -1,3 +1,22 @@
+## [17.3.1](https://github.com/streamich/react-use/compare/v17.3.0...v17.3.1) (2021-08-31)
+
+
+### Performance Improvements
+
+* ⚡️ change title only if it changed ([51ef8d9](https://github.com/streamich/react-use/commit/51ef8d99bad31186ec5420d8b729748507c8a1bf))
+
+# [17.3.0](https://github.com/streamich/react-use/compare/v17.2.4...v17.3.0) (2021-08-31)
+
+
+### Bug Fixes
+
+* do not re-render unncessarily in useAsyncFn hook ([fa3ba25](https://github.com/streamich/react-use/commit/fa3ba2520ede6866b599f6df55fdfa6395058cd2))
+
+
+### Features
+
+* useAudio add playing state ([3203610](https://github.com/streamich/react-use/commit/3203610efdcb8e1fe3c6a17ea19e41bacbeb851b))
+
 ## [17.2.4](https://github.com/streamich/react-use/compare/v17.2.3...v17.2.4) (2021-04-23)
 
 

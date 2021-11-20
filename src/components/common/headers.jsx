@@ -102,7 +102,13 @@ class Headers extends Component {
                           <ul>
                             <li className="account-el">
                               <i className="bx bx-user-pin" />
-                              <Link to={'#'}>Entrar</Link>
+                              <NavLink
+                                activeClassName="active"
+                                to={`${process.env.PUBLIC_URL}/login`}
+                                onClick={this.scrollTop}
+                              >
+                                Entrar
+                              </NavLink>
                             </li>
                             <li className="account-el">
                               <i className="bx bxs-user-account" />
@@ -348,7 +354,13 @@ class Headers extends Component {
                           <ul>
                             <li className="account-el">
                               <i className="bx bx-user-pin" />
-                              <Link to={`#`}>Entrar</Link>
+                              <NavLink
+                                activeClassName="active"
+                                to={`${process.env.PUBLIC_URL}/login`}
+                                onClick={this.scrollTop}
+                              >
+                                Entrar
+                              </NavLink>
                             </li>
                             <li className="account-el">
                               <i className="bx bxs-user-account" />

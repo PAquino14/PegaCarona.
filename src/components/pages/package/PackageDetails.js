@@ -94,14 +94,14 @@ class PackageDetails extends Component {
                   </div>
                   <div className="package-header">
                     <div className="package-title">
-                      <h3>Bioparque da Amazônia.</h3>
+                      <h3>O Amapá do meio do mundo .</h3>
                       <strong>
                         <i className="flaticon-arrival" />
-                        Bioparque da Amazônia, Macapá
+                        Amapá
                       </strong>
                     </div>
                     <div className="pd-review">
-                      <p>Excellent</p>
+                      <p>Excelente</p>
                       <ul>
                         <li>
                           <i className="bx bxs-star" />
@@ -119,7 +119,7 @@ class PackageDetails extends Component {
                           <i className="bx bx-star" />
                         </li>
                       </ul>
-                      <p>800 Review</p>
+                      <p>100 Comentários</p>
                     </div>
                   </div>
                   <div className="p-short-info">
@@ -134,14 +134,14 @@ class PackageDetails extends Component {
                       <i className="flaticon-footprints" />
                       <div className="info-texts">
                         <strong>Tipo de viagem</strong>
-                        <p>4 Dias</p>
+                        <p>5 Dias</p>
                       </div>
                     </div>
                     <div className="single-info">
                       <i className="flaticon-traveller" />
                       <div className="info-texts">
                         <strong>Tamanho do grupo</strong>
-                        <p>30 Pessoas</p>
+                        <p>10 Pessoas</p>
                       </div>
                     </div>
                     <div className="single-info">
@@ -241,32 +241,33 @@ class PackageDetails extends Component {
                                   <li>
                                     <i className="bx bx-circle" />{' '}
                                     <p>
-                                      trechos das trilhas terrestres Guarda
-                                      Parque.
+                                      Marco Zero do Equador, onde foi construído
+                                      um obelisco para a observação do fenômeno
+                                      solar chamado de Equinócio. Parque.
                                     </p>
-                                  </li>
-                                  <li>
-                                    <i className="bx bx-circle" />{' '}
-                                    <p>trilha da Onça e do Pau-brasil.</p>
                                   </li>
                                   <li>
                                     <i className="bx bx-circle" />{' '}
                                     <p>
-                                      Pellentesque accumsan magna in augue
-                                      sagittis, non fringilla eros molestie.
+                                      Banho agradável com possibilidade de ver
+                                      botos da região. .
                                     </p>
                                   </li>
                                   <li>
                                     <i className="bx bx-circle" />{' '}
-                                    <p>brincadeiras e pintura facial.</p>
+                                    <p>Fortaleza de São José</p>
                                   </li>
                                   <li>
                                     <i className="bx bx-circle" />{' '}
-                                    <p>A definir.</p>
+                                    <p>O grandioso rio Amazonas.</p>
                                   </li>
                                   <li>
                                     <i className="bx bx-circle" />{' '}
-                                    <p>A definir.</p>
+                                    <p>A igreja de São José .</p>
+                                  </li>
+                                  <li>
+                                    <i className="bx bx-circle" />{' '}
+                                    <p>O belo teatro das Bacabeiras .</p>
                                   </li>
                                 </ul>
                               </div>
@@ -275,7 +276,7 @@ class PackageDetails extends Component {
                                   <tbody>
                                     <tr>
                                       <td>Destino</td>
-                                      <td>Macapá</td>
+                                      <td>Amapá</td>
                                     </tr>
                                     <tr>
                                       <td>Depuração</td>
@@ -283,32 +284,45 @@ class PackageDetails extends Component {
                                     </tr>
                                     <tr>
                                       <td>Hora de saída</td>
-                                      <td>01 April, 2021 10.00AM</td>
+                                      <td>01 Maio, 2022 09:00AM</td>
                                     </tr>
                                     <tr>
                                       <td>Tempo de retorno</td>
-                                      <td>08 April, 2021 10.00AM</td>
+                                      <td>13 Maio, 2022 19:00PM</td>
                                     </tr>
                                     <tr>
                                       <td>Incluído</td>
                                       <td>
                                         <ul className="table-list-allow">
                                           <li>
-                                            <i className="bx bx-check" /> Guia
-                                            especializado
+                                            <i className="bx bx-check" />{' '}
+                                            Hospedagem em Macapá
                                           </li>
                                           <li>
                                             {' '}
                                             <i className="bx bx-check" />{' '}
-                                            Transporte privado
+                                            Transporte terrestre e fluvial
                                           </li>
                                           <li>
-                                            <i className="bx bx-check" /> Taxas
-                                            de entrada
+                                            <i className="bx bx-check" />{' '}
+                                            Serviço de bordo
+                                          </li>
+                                          <li>
+                                            <i className="bx bx-check" /> Guia
+                                            de Turismo
+                                          </li>
+                                          <li>
+                                            <i className="bx bx-check" />{' '}
+                                            Almoços
+                                          </li>
+                                          <li>
+                                            <i className="bx bx-check" />{' '}
+                                            Transfer. (Brindes: Todas as imagens
+                                            feitas durante os passeios).
                                           </li>
                                           <li>
                                             <i className="bx bx-check" /> Box
-                                            Almoço,Água,Jantar e Lanches
+                                            Seguro viagem
                                           </li>
                                         </ul>
                                       </td>
@@ -320,16 +334,17 @@ class PackageDetails extends Component {
                                           <li>
                                             {' '}
                                             <i className="bx bx-x" />
-                                            Serviços adicionais
+                                            Bebidas alcolicas
                                           </li>
                                           <li>
-                                            <i className="bx bx-x" /> Seguro
+                                            <i className="bx bx-x" /> ingressos
+                                            e outros não descritos no pacote.
                                           </li>
                                           <li>
-                                            <i className="bx bx-x" /> Bebidas
+                                            <i className="bx bx-x" /> A definir
                                           </li>
                                           <li>
-                                            <i className="bx bx-x" /> Bilhetes
+                                            <i className="bx bx-x" /> A definir
                                           </li>
                                         </ul>
                                       </td>
@@ -425,7 +440,7 @@ class PackageDetails extends Component {
                                       </div>
                                       <div className="p-reviewer-info">
                                         <strong>jose Maicon</strong>
-                                        <p>2 April, 2021 10.00PM</p>
+                                        <p>2 Maio, 2022 09.00PM</p>
                                         <ul className="review-star">
                                           <li>
                                             {' '}
@@ -464,7 +479,7 @@ class PackageDetails extends Component {
                                       </div>
                                       <div className="p-reviewer-info">
                                         <strong>Marcio carvalho</strong>
-                                        <p>2 April, 2021 10.00PM</p>
+                                        <p>2 Maio, 2022 09.00PM</p>
                                         <ul className="review-star">
                                           <li>
                                             {' '}
@@ -503,7 +518,7 @@ class PackageDetails extends Component {
                                       </div>
                                       <div className="p-reviewer-info">
                                         <strong>Bertram Bil</strong>
-                                        <p>2 April, 2021 10.00PM</p>
+                                        <p>2 Maio, 2022 09.00PM</p>
                                         <ul className="review-star">
                                           <li>
                                             {' '}
@@ -609,38 +624,22 @@ class PackageDetails extends Component {
                               <div className="p-timeline-overview">
                                 <h5>Visão geral</h5>
                                 <p>
-                                  Macapá é a capital que apresenta os seus
-                                  principais cartões-postais, como Marco Zero do
-                                  Equador, onde foi construído um obelisco para
-                                  a observação do fenômeno solar chamado de
-                                  Equinócio, que marca a mudança de estações.
-                                  Mas por aqui as surpresas são fenomenais e
-                                  gradiosas e os Portuguses vão surpreende - lo
-                                  com a maior fortificação da america latina, a
-                                  Fortaleza de São José de Macapá. O complexo
-                                  Beira-Rio, principal ponto de encontro da
-                                  cidade é formado por trapiches, quiosques e
-                                  restaurantes que atraem visitantes durante
-                                  todo o ano, tudo isso com uma visão surreal do
-                                  rio mar, o amazonas bem em frente da cidade de
-                                  Macapá, Já o Museu Sacaca tem eu sua área de
-                                  atuação ações museológicas de pesquisa,
-                                  preservação e comunicação, abrangendo o saber
-                                  científico e o saber popular dos povos
-                                  amazônicos. Vale a pena conhecer o principal
-                                  palco da cultura amapaense, o belo teatro das
-                                  Bacabeiras com uma certa frequência de suas
-                                  peças teatrais e apresentações de músicos
-                                  local e nacional. Foi catedral durantes anos e
-                                  é o monumento mais antigo da cidade, sua
-                                  construção data do século XVIII, a igreja de
-                                  São José não pode ficar de fora de sua visita.
-                                  E para finalizar nosso City Tour, vamos
-                                  conhecer um figura controversia de nossos
-                                  quadro de heróis pelo Brasil, neste caso o do
-                                  estado do amapá, “Cabralzinho” o mais
-                                  importante defensor do Amapá contra as
-                                  invasões francesas.
+                                  O Amapá está localizado na esquina do Rio
+                                  Amazonas com a linha imaginária do equador. É
+                                  o Estado mais preservado do Brasil com 17
+                                  unidades de conservação (12 federais e 5
+                                  estaduais) imerso a uma biodiversidade que
+                                  perpassa por 5(cinco) ecossistemas
+                                  Brasileiros, com uma população altamente
+                                  acolhedora que buscam manter intacto esse
+                                  refúgio de belezas naturais temperado por
+                                  tradições culturais únicas, navegar nas águas
+                                  do Rio Amazonas, conhecendo furos e igarapés,
+                                  vivenciando a vida dos ribeirinhos, com
+                                  possibilidade de ver botos da região, tudo
+                                  isso ligado a um rica gastronomia como o
+                                  delicioso camarão no bafo e artesanato
+                                  representativo da cultura Maracá e Cunani.
                                 </p>
                               </div>
                               <ul className="p-timeline">
@@ -652,7 +651,7 @@ class PackageDetails extends Component {
                                   </div>
                                   <div className="timeline-content">
                                     <h5>Dia 1 : Chekin Hotel </h5>
-                                    <strong>10.00 AM to 10.00 PM</strong>
+                                    <strong>09:00 a 17.00 PM</strong>
                                     <p>A definir.</p>
                                     <ul>
                                       <li />
@@ -686,8 +685,44 @@ class PackageDetails extends Component {
                                   </div>
                                   <div className="timeline-content">
                                     <h5>Dia 2 : : CITY TOUR MACAPÁ</h5>
-                                    <strong>10.00 AM to 10.00 PM</strong>
-                                    <p>A definir.</p>
+                                    <strong>09:00 a 17.00 PM</strong>
+                                    <p>
+                                      Macapá é a capital que apresenta os seus
+                                      principais cartões-postais, como Marco
+                                      Zero do Equador, onde foi construído um
+                                      obelisco para a observação do fenômeno
+                                      solar chamado de Equinócio, que marca a
+                                      mudança de estações. Mas por aqui as
+                                      surpresas são fenomenais e gradiosas e os
+                                      Portuguses vão surpreende - lo com a maior
+                                      fortificação da america latina, a
+                                      Fortaleza de São José de Macapá. O
+                                      complexo Beira-Rio, principal ponto de
+                                      encontro da cidade é formado por
+                                      trapiches, quiosques e restaurantes que
+                                      atraem visitantes durante todo o ano, tudo
+                                      isso com uma visão surreal do rio mar, o
+                                      amazonas bem em frente da cidade de
+                                      Macapá, Já o Museu Sacaca tem eu sua área
+                                      de atuação ações museológicas de pesquisa,
+                                      preservação e comunicação, abrangendo o
+                                      saber científico e o saber popular dos
+                                      povos amazônicos. Vale a pena conhecer o
+                                      principal palco da cultura amapaense, o
+                                      belo teatro das Bacabeiras com uma certa
+                                      frequência de suas peças teatrais e
+                                      apresentações de músicos local e nacional.
+                                      Foi catedral durantes anos e é o monumento
+                                      mais antigo da cidade, sua construção data
+                                      do século XVIII, a igreja de São José não
+                                      pode ficar de fora de sua visita. E para
+                                      finalizar nosso City Tour, vamos conhecer
+                                      um figura controversia de nossos quadro de
+                                      heróis pelo Brasil, neste caso o do estado
+                                      do amapá, “Cabralzinho” o mais importante
+                                      defensor do Amapá contra as invasões
+                                      francesas..
+                                    </p>
                                     <ul>
                                       <li />
                                       <li>
@@ -720,8 +755,35 @@ class PackageDetails extends Component {
                                   </div>
                                   <div className="timeline-content">
                                     <h5>Dia 3 : RIVER TOUR RIO AMAZONAS</h5>
-                                    <strong>10.00 AM to 10.00 PM</strong>
-                                    <p>A definir.</p>
+                                    <strong>09:00 a 17.00 PM</strong>
+                                    <p>
+                                      "Rio-Mar" é como os colonizadores vão
+                                      chamar o grandioso rio Amazonas, e é por
+                                      este rio que o nosso River Tour começa,
+                                      passando por algumas comunidades
+                                      ribeirinhas, portos de
+                                      embarque/desembarque de barcos
+                                      tradicionais que navegam por este
+                                      magestoso rio, cuja Foz fica na
+                                      confluência do Amapá com a Ilha do Marajó,
+                                      algo tão gigantesco que a distância de uma
+                                      margem a outra chega a 17 quilômetros. É o
+                                      principal criador e destruidor das
+                                      inumeras ilhas por onde passa, Aqui temos
+                                      a ilha de santana que faz parte de nosso
+                                      roteiro para banho, contemplação e a nossa
+                                      trilha das quatros gigantes árvores, a
+                                      samaúma. Mas este mesmo rio ou afluentes é
+                                      o que nos traz o nosso peixe, pirapitinga
+                                      para o nosso almoço em um sítio pousada da
+                                      família Pereira que moram nesta ilha. Já
+                                      com o "bucho" cheio é hora de tirar uma
+                                      "pipira" como se diz por aqui ao descanço
+                                      de uma rede preparado para voce. Mas é
+                                      chegada a hora de voltar ao hotel e o
+                                      nosso barco tradicional "catraia" já está
+                                      nos esperando..
+                                    </p>
                                     <ul>
                                       <li />
                                       <li>
@@ -753,9 +815,9 @@ class PackageDetails extends Component {
                                     </div>
                                   </div>
                                   <div className="timeline-content">
-                                    <h5>Dia 4 : A definir</h5>
-                                    <strong>10.00 AM to 10.00 PM</strong>
-                                    <p>A definir.</p>
+                                    <h5>Dia 4 : Preferencia do Turista</h5>
+                                    <strong>09:00 a 17.00 PM</strong>
+                                    <p>A definir</p>
                                     <ul>
                                       <li />
                                       <li>
@@ -788,8 +850,21 @@ class PackageDetails extends Component {
                                   </div>
                                   <div className="timeline-content">
                                     <h5>Dia 5 : ARIRI - TOUR DE VIVENCIAS</h5>
-                                    <strong>10.00 AM to 10.00 PM</strong>
-                                    <p>A definir.</p>
+                                    <strong>09:00 a 17.00 PM</strong>
+                                    <p>
+                                      Existe uma parte da Capital Macapá pouco
+                                      conhecida ou desconhecida de muitos
+                                      amapaenses, são os seus distritos,
+                                      comunidades descendentes de escravos e
+                                      famílias vindos do Nordeste que aqui
+                                      chegaram e criaram raízes. Dentre elas,
+                                      ARIRI que fica a 44 km de Macapá. Local
+                                      agradável e uma comunidade hospitaleira. O
+                                      passeio pelo rio matapi proporciona banho
+                                      agradável com possibilidade de ver botos
+                                      da região. A comida caseira e o açaí são o
+                                      carro chefe deste pequeno paraíso..
+                                    </p>
                                     <ul>
                                       <li />
                                       <li>

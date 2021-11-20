@@ -28,6 +28,7 @@ import blog from './components/pages/blog/BlogComponent';
 import blogSidebar from './components/pages/blog/BlogSidebar';
 import blogStandard from './components/pages/blog/BlogStandard';
 import blogDetails from './components/pages/blog/BlogDetails';
+import login from './components/pages/login/Login';
 
 //Initializations All Css
 import './index.css';
@@ -66,6 +67,7 @@ class Root extends React.Component {
               path={`${process.env.PUBLIC_URL}/package`}
               component={packages}
             />
+
             <Route
               path={`${process.env.PUBLIC_URL}/package-sidebar`}
               component={packageSidebar}
@@ -94,6 +96,8 @@ class Root extends React.Component {
               path={`${process.env.PUBLIC_URL}/blog-standard`}
               component={blogStandard}
             />
+            <Route path={`${process.env.PUBLIC_URL}/login`} component={login} />
+
             <Route
               path={`${process.env.PUBLIC_URL}/blog-details`}
               component={blogDetails}
