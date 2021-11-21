@@ -1,30 +1,24 @@
-import React, { Component } from 'react';
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
-
+import React from 'react';
 import LoginForm from './LoginForm';
 import LoginCreate from './LoginCreate';
 import LoginPasswordLost from './LoginPasswordLost';
 import LoginPasswordReset from './LoginPasswordReset';
+import styles from './Login.module.css';
 
-class Login extends Component {
-  constructor(props) {
-    super(props);
-    this.state = {};
-  }
-  render() {
-    return (
-      <>
-        <BrowserRouter basename={'/'}>
-          <Switch>
-            <Route path={`/`} element={<LoginForm />} />
-            <LoginCreate />
-            <LoginPasswordLost />
-            <LoginPasswordReset />
-          </Switch>
-        </BrowserRouter>
-      </>
-    );
-  }
-}
+const Login = () => {
+  return (
+    <section className={styles.login}>
+    <div className={styles.forms}>
+   
+        
+           <LoginForm />
+           <LoginCreate />
+          <LoginPasswordLost />
+         <LoginPasswordReset />
+             
+    </div>
+    </section> 
+  );
+};
 
 export default Login;

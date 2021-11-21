@@ -28,11 +28,14 @@ import blog from './components/pages/blog/BlogComponent';
 import blogSidebar from './components/pages/blog/BlogSidebar';
 import blogStandard from './components/pages/blog/BlogStandard';
 import blogDetails from './components/pages/blog/BlogDetails';
-import login from './components/pages/login/Login';
+import Login from './components/pages/login/Login';
+
+
 
 //Initializations All Css
 import './index.css';
 import './index.scss';
+
 
 //Default Warniing Error Hide
 console.log = console.warn = console.error = () => {};
@@ -96,8 +99,7 @@ class Root extends React.Component {
               path={`${process.env.PUBLIC_URL}/blog-standard`}
               component={blogStandard}
             />
-            <Route path={`${process.env.PUBLIC_URL}/login`} component={login} />
-
+           
             <Route
               path={`${process.env.PUBLIC_URL}/blog-details`}
               component={blogDetails}
@@ -105,7 +107,15 @@ class Root extends React.Component {
             <Route
               path={`${process.env.PUBLIC_URL}/contact`}
               component={contact}
+
             />
+            <Route
+              path={`${process.env.PUBLIC_URL}/login`}
+              component={Login}
+              
+            />
+
+
           </Layout>
         </Switch>
       </BrowserRouter>
