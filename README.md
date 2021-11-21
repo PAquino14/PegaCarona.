@@ -1,2 +1,0 @@
-# PegaCarona.Dev
-dev master
