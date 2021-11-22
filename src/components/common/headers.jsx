@@ -29,7 +29,9 @@ class Headers extends Component {
 
                     <li>
                       <i className="bx bxs-envelope" />
-                      <a href="mailto:info@example.com">pegacarona@gmail.com</a>
+                      <a href="mailto:pegacarona@gmail.com">
+                        pegacarona@gmail.com
+                      </a>
                     </li>
                   </ul>
                 </div>

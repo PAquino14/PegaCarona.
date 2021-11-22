@@ -2,12 +2,12 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 
 //Load Image
-import package1Img from '../../../assets/images/package/p-1.png';
-import package2Img from '../../../assets/images/package/p-2.png';
-import package3Img from '../../../assets/images/package/p-3.png';
-import package4Img from '../../../assets/images/package/p-4.png';
-import package5Img from '../../../assets/images/package/p-5.png';
-import package6Img from '../../../assets/images/package/p-6.png';
+import package1Img from '../../../assets/images/package/marcozero.png';
+import package2Img from '../../../assets/images/package/mazagao.png';
+import package3Img from '../../../assets/images/package/amapa.png';
+import package4Img from '../../../assets/images/package/serra-2.png';
+import package5Img from '../../../assets/images/package/calcoene.png';
+import package6Img from '../../../assets/images/package/jari.png';
 
 class Packages extends Component {
   constructor(props) {
@@ -54,7 +54,7 @@ class Packages extends Component {
                     <h3>
                       <i className="flaticon-arrival" />
                       <Link to={`${process.env.PUBLIC_URL}/package-details`}>
-                        visitar Marco zero macapá{' '}
+                        Macapá{' '}
                       </Link>
                     </h3>
                     <div className="package-rating">
@@ -90,7 +90,7 @@ class Packages extends Component {
                     <h3>
                       <i className="flaticon-arrival" />
                       <Link to={`${process.env.PUBLIC_URL}/package-details`}>
-                        Recanto Familia bianchi , Ferreira Gomes
+                        Mazagão Velho
                       </Link>
                     </h3>
                     <div className="package-rating">
@@ -126,7 +126,7 @@ class Packages extends Component {
                     <h3>
                       <i className="flaticon-arrival" />
                       <Link to={`${process.env.PUBLIC_URL}/package-details`}>
-                        Portal das Palmeiras, porto Grande
+                        Município do Amapá
                       </Link>
                     </h3>
                     <div className="package-rating">
@@ -162,7 +162,7 @@ class Packages extends Component {
                     <h3>
                       <i className="flaticon-arrival" />
                       <Link to={`${process.env.PUBLIC_URL}/package-details`}>
-                        hotel Tassos , Ferreira Gomes
+                        Serra do Navio
                       </Link>
                     </h3>
                     <div className="package-rating">
@@ -198,7 +198,7 @@ class Packages extends Component {
                     <h3>
                       <i className="flaticon-arrival" />
                       <Link to={`${process.env.PUBLIC_URL}/package-details`}>
-                        Pedra Preta, Serra do Navio
+                        Calçoene
                       </Link>
                     </h3>
                     <div className="package-rating">
@@ -234,7 +234,7 @@ class Packages extends Component {
                     <h3>
                       <i className="flaticon-arrival" />
                       <Link to={`${process.env.PUBLIC_URL}/package-details`}>
-                        Balneario do traira , Ferreira Gomes
+                        Laranjal do Jari
                       </Link>
                     </h3>
                     <div className="package-rating">

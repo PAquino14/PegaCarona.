@@ -5,16 +5,16 @@ import 'owl.carousel/dist/assets/owl.carousel.css';
 import 'owl.carousel/dist/assets/owl.theme.default.css';
 
 //Import Images
-import destinations1Img from '../../../assets/images/destination/d-1.png';
-import destinations4Img from '../../../assets/images/destination/d-4.png';
-import destinations5Img from '../../../assets/images/destination/d-5.png';
-import destinations6Img from '../../../assets/images/destination/d-6.png';
-import destinations7Img from '../../../assets/images/destination/d-7.png';
-import destinations8Img from '../../../assets/images/destination/d-8.png';
-import destinations9Img from '../../../assets/images/destination/d-9.png';
+import destinations1Img from '../../../assets/images/destination/santana.png';
+import destinations4Img from '../../../assets/images/destination/santana-2.png';
+import destinations5Img from '../../../assets/images/destination/santana-3.png';
+import destinations6Img from '../../../assets/images/destination/santana-1.png';
+import destinations7Img from '../../../assets/images/destination/marco.png';
+import destinations8Img from '../../../assets/images/destination/museu.png';
+import destinations9Img from '../../../assets/images/destination/forte.png';
 import destinations10Img from '../../../assets/images/destination/d-10.png';
 import destinations11Img from '../../../assets/images/destination/d-11.png';
-import destinations2Img from '../../../assets/images/destination/d-2.png';
+import destinations2Img from '../../../assets/images/destination/macapa.png';
 import destinations3Img from '../../../assets/images/destination/d-3.png';
 
 class Destinations extends Component {
@@ -103,7 +103,7 @@ class Destinations extends Component {
                       <h3>
                         <i className="flaticon-arrival" />
                         <Link to={`${process.env.PUBLIC_URL}/package-details`}>
-                          Bio Parque , Macapá
+                          Trilha da Samauma - Iha de Santana
                         </Link>
                       </h3>
                       <div className="package-rating">
@@ -133,7 +133,7 @@ class Destinations extends Component {
                       <h3>
                         <i className="flaticon-arrival" />
                         <Link to={`${process.env.PUBLIC_URL}/package-details`}>
-                          Fortaleza de são jose, Macapá
+                          Igarapé Fortaleza
                         </Link>
                       </h3>
                       <div className="package-rating">
@@ -163,7 +163,7 @@ class Destinations extends Component {
                       <h3>
                         <i className="flaticon-arrival" />
                         <Link to={`${process.env.PUBLIC_URL}/package-details`}>
-                          Trapiche Eliezer Levy, Macapá
+                          Igreja Matriz de Santana
                         </Link>
                       </h3>
                       <div className="package-rating">
@@ -233,7 +233,7 @@ class Destinations extends Component {
                       <h3>
                         <i className="flaticon-arrival" />
                         <Link to={`${process.env.PUBLIC_URL}/package-details`}>
-                          Cachoeira Grande do Amapa , Amapari
+                          Marco Zero
                         </Link>
                       </h3>
                       <div className="package-rating">
@@ -264,7 +264,7 @@ class Destinations extends Component {
                       <h3>
                         <i className="flaticon-arrival" />
                         <Link to={`${process.env.PUBLIC_URL}/package-details`}>
-                          Cachoeira de Santo Antonio , Laranjal do Jari
+                          Museu Sacaca
                         </Link>
                       </h3>
                       <div className="package-rating">
@@ -295,7 +295,7 @@ class Destinations extends Component {
                       <h3>
                         <i className="flaticon-arrival" />
                         <Link to={`${process.env.PUBLIC_URL}/package-details`}>
-                          Recanto Ecologico hiara , Laranjal do Jari
+                          Fortaleza São Jose
                         </Link>
                       </h3>
                       <div className="package-rating">
