@@ -25,7 +25,7 @@ const LoginForm = () => {
 
   return (
     <section>
-      <h1>Login</h1>
+      <h1>Realizar</h1>
       <form action="" onSubmit={handleSubmit}>
         <input
           type="text"
