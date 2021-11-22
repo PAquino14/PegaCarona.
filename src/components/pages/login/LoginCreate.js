@@ -4,9 +4,9 @@ import { Link } from 'react-router-dom';
 const LoginCreate = () => {
   return (
     <div>
-      <h1>Ciar</h1>
+      <h2>Ciar</h2>
     </div>
-  )
-}
+  );
+};
 
-export default LoginCreate
+export default LoginCreate;
