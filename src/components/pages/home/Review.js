@@ -55,8 +55,8 @@ class Review extends Component {
             <div className="row">
               <div className="col-lg-12 col-md-12 col-sm-12">
                 <div className="section-head pb-40">
-                  <h5>Diz o nosso Viajante</h5>
-                  <h2>Oque o viajante diz Sobre nos</h2>
+                  <h5>Depoimentos</h5>
+                  <h2>O que nossos viajantes falam sobre nós</h2>
                 </div>
               </div>
             </div>
@@ -71,7 +71,7 @@ class Review extends Component {
                 <div className="reviewer-info">
                   <h3>Ana brabo</h3>
                   <h5>Viajante</h5>
-                  <p>Simplesmente incrivel . </p>
+                  <p>simplesmente incrível. </p>
                 </div>
               </div>
               <div className="review-card">
@@ -89,9 +89,9 @@ class Review extends Component {
                   <img src={review3Img} alt="" className="img-fluid" />
                 </div>
                 <div className="reviewer-info">
-                  <h3>Shwan Pull</h3>
+                  <h3>Mateus</h3>
                   <h5>Viajante</h5>
-                  <p>Estao de parabens. </p>
+                  <p>Esto de parabéns. </p>
                 </div>
               </div>
               <div className="review-card ">
@@ -121,11 +121,7 @@ class Review extends Component {
                 <div className="reviewer-info">
                   <h3>Shwan Pull</h3>
                   <h5>Viajante</h5>
-                  <p>
-                    Fusce aliquam luctus est, eget tincidunt velit scelerisque
-                    rhoncus. Aliquam lacinia ipsum ornare, porttitor risus nec,
-                    mattis mauris.{' '}
-                  </p>
+                  <p>...</p>
                 </div>
               </div>
               <div className="review-card ">
@@ -135,11 +131,7 @@ class Review extends Component {
                 <div className="reviewer-info">
                   <h3>Dina Jems</h3>
                   <h5>Viajante</h5>
-                  <p>
-                    Fusce aliquam luctus est, eget tincidunt velit scelerisque
-                    rhoncus. Aliquam lacinia ipsum ornare, porttitor risus nec,
-                    mattis mauris.{' '}
-                  </p>
+                  <p>...</p>
                 </div>
               </div>
             </OwlCarousel>

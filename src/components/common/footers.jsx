@@ -5,9 +5,9 @@ import $ from 'jquery';
 //Import Image
 import secondLogo from '../../assets/images/logo-2.png';
 import paymentCard1Img from '../../assets/images/payment/pix.png';
-import paymentCard2Img from '../../assets/images/payment/payment-card-2.png';
-import paymentCard3Img from '../../assets/images/payment/payment-card-3.png';
-import paymentCard4Img from '../../assets/images/payment/payment-card-4.png';
+import paymentCard2Img from '../../assets/images/payment/pagamentos.png';
+import paymentCard3Img from '../../assets/images/payment/boleto.png';
+import paymentCard4Img from '../../assets/images/payment/mercado.png';
 import paymentCard5Img from '../../assets/images/payment/payment-card-5.png';
 
 class Footers extends Component {
@@ -370,11 +370,6 @@ class Footers extends Component {
                         />
                         <img
                           src={paymentCard4Img}
-                          alt=""
-                          className="img-fluid"
-                        />
-                        <img
-                          src={paymentCard5Img}
                           alt=""
                           className="img-fluid"
                         />

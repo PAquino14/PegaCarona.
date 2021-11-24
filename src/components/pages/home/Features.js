@@ -5,8 +5,8 @@ import 'owl.carousel/dist/assets/owl.theme.default.css';
 import { Link } from 'react-router-dom';
 
 //Import Images
-import features1Img from '../../../assets/images/feature/f-1.png';
-import features2Img from '../../../assets/images/feature/f-2.png';
+import features1Img from '../../../assets/images/feature/logo 2.png';
+import features2Img from '../../../assets/images/feature/logo 2.png';
 
 class Features extends Component {
   constructor(props) {
