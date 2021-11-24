@@ -56,7 +56,7 @@ class AboutReview extends Component {
               <div className="col-lg-12 col-md-12 col-sm-12">
                 <div className="section-head pb-40">
                   <h5>Diz o nosso Viajante</h5>
-                  <h2>Oque o viajante diz sobre nos</h2>
+                  <h2>Oque o viajante diz sobre nós</h2>
                 </div>
               </div>
             </div>
@@ -71,11 +71,7 @@ class AboutReview extends Component {
                 <div className="reviewer-info">
                   <h3>Jode mateus</h3>
                   <h5>Viajante</h5>
-                  <p>
-                    Fusce aliquam luctus est, eget tincidunt velit scelerisque
-                    rhoncus. Aliquam lacinia ipsum ornare, porttitor risus nec,
-                    mattis mauris.{' '}
-                  </p>
+                  <p>Melhor agência de viagem</p>
                 </div>
               </div>
               <div className="review-card">
@@ -85,11 +81,7 @@ class AboutReview extends Component {
                 <div className="reviewer-info">
                   <h3>Jahid Hassan</h3>
                   <h5>Viajante</h5>
-                  <p>
-                    Fusce aliquam luctus est, eget tincidunt velit scelerisque
-                    rhoncus. Aliquam lacinia ipsum ornare, porttitor risus nec,
-                    mattis mauris.{' '}
-                  </p>
+                  <p>Melhor agência de viagem</p>
                 </div>
               </div>
               <div className="review-card">
@@ -99,11 +91,7 @@ class AboutReview extends Component {
                 <div className="reviewer-info">
                   <h3>Shwan Pull</h3>
                   <h5>Viajante</h5>
-                  <p>
-                    Fusce aliquam luctus est, eget tincidunt velit scelerisque
-                    rhoncus. Aliquam lacinia ipsum ornare, porttitor risus nec,
-                    mattis mauris.{' '}
-                  </p>
+                  <p>Melhor agência de viagem</p>
                 </div>
               </div>
               <div className="review-card ">
@@ -113,11 +101,7 @@ class AboutReview extends Component {
                 <div className="reviewer-info">
                   <h3>Jode Mateus</h3>
                   <h5>viajante</h5>
-                  <p>
-                    Fusce aliquam luctus est, eget tincidunt velit scelerisque
-                    rhoncus. Aliquam lacinia ipsum ornare, porttitor risus nec,
-                    mattis mauris.{' '}
-                  </p>
+                  <p>Melhor agência de viagem</p>
                 </div>
               </div>
               <div className="review-card">
@@ -127,11 +111,7 @@ class AboutReview extends Component {
                 <div className="reviewer-info">
                   <h3>Jahid Hassan</h3>
                   <h5>Traveller</h5>
-                  <p>
-                    Fusce aliquam luctus est, eget tincidunt velit scelerisque
-                    rhoncus. Aliquam lacinia ipsum ornare, porttitor risus nec,
-                    mattis mauris.{' '}
-                  </p>
+                  <p>Melhor agência de viagem</p>
                 </div>
               </div>
               <div className="review-card">
@@ -141,11 +121,7 @@ class AboutReview extends Component {
                 <div className="reviewer-info">
                   <h3>Shwan Pull</h3>
                   <h5>Traveller</h5>
-                  <p>
-                    Fusce aliquam luctus est, eget tincidunt velit scelerisque
-                    rhoncus. Aliquam lacinia ipsum ornare, porttitor risus nec,
-                    mattis mauris.{' '}
-                  </p>
+                  <p>Melhor agência de viagem</p>
                 </div>
               </div>
               <div className="review-card ">
@@ -155,11 +131,7 @@ class AboutReview extends Component {
                 <div className="reviewer-info">
                   <h3>Dina Jems</h3>
                   <h5>Traveller</h5>
-                  <p>
-                    Fusce aliquam luctus est, eget tincidunt velit scelerisque
-                    rhoncus. Aliquam lacinia ipsum ornare, porttitor risus nec,
-                    mattis mauris.{' '}
-                  </p>
+                  <p>Melhor agência de viagem</p>
                 </div>
               </div>
             </OwlCarousel>

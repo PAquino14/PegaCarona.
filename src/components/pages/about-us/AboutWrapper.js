@@ -38,7 +38,7 @@ class AboutWrapper extends Component {
               </div>
               <div className="col-lg-5 col-md-12">
                 <div className="about-wrapper-right section-head head-left">
-                  <h5>Porque PegaCarona</h5>
+                  <h5>Por que PegaCarona</h5>
                   <h2>A melhor agência de viagens.</h2>
                   <p>
                     apresentar excursões, passeios e roteiros turístico, bem

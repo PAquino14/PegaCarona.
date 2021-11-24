@@ -64,7 +64,7 @@ class GuideWrapper extends Component {
                 <div className="guide-thumb">
                   <img src={guide1Img} alt="" className="img-fluid" />
                   <div className="guide-info">
-                    <strong>Sakura Chen</strong>
+                    <strong>Maria Marques</strong>
                     <p>Guia Turístico</p>
                     <ul className="guide-links">
                       <li>
@@ -95,7 +95,7 @@ class GuideWrapper extends Component {
                 <div className="guide-thumb">
                   <img src={guide3Img} alt="" className="img-fluid" />
                   <div className="guide-info">
-                    <strong>Sakura Chen</strong>
+                    <strong>Samila Ramos</strong>
                     <p>Guia Turístico</p>
                     <ul className="guide-links">
                       <li>
@@ -126,7 +126,7 @@ class GuideWrapper extends Component {
                 <div className="guide-thumb">
                   <img src={guide4Img} alt="" className="img-fluid" />
                   <div className="guide-info">
-                    <strong>Sakura Chen</strong>
+                    <strong>João campos</strong>
                     <p>Guia Turístico</p>
                     <ul className="guide-links">
                       <li>
@@ -157,7 +157,7 @@ class GuideWrapper extends Component {
                 <div className="guide-thumb">
                   <img src={guide2Img} alt="" className="img-fluid" />
                   <div className="guide-info">
-                    <strong>Sakura Chen</strong>
+                    <strong>Marcos Machado</strong>
                     <p> GuideGuia Turístico</p>
                     <ul className="guide-links">
                       <li>
