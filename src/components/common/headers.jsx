@@ -235,49 +235,9 @@ class Headers extends Component {
                         </ul>
                       </li>
                       <li className="has-child-menu">
-                        <Link to={'#'}>Blogs</Link>
                         <i className="fl flaticon-plus">+</i>
                         <ul className="sub-menu">
-                          <li>
-                            <NavLink
-                              activeClassName="active"
-                              to={`${process.env.PUBLIC_URL}/blog`}
-                              className="sub-item"
-                              onClick={this.scrollTop}
-                            >
-                              Página do blog
-                            </NavLink>
-                          </li>
-                          <li>
-                            <NavLink
-                              activeClassName="active"
-                              to={`${process.env.PUBLIC_URL}/blog-sidebar`}
-                              className="sub-item"
-                              onClick={this.scrollTop}
-                            >
-                              Barra lateral do Blog
-                            </NavLink>
-                          </li>
-                          <li>
-                            <NavLink
-                              activeClassName="active"
-                              to={`${process.env.PUBLIC_URL}/blog-standard`}
-                              className="sub-item"
-                              onClick={this.scrollTop}
-                            >
-                              Padrão de blogue
-                            </NavLink>
-                          </li>
-                          <li>
-                            <NavLink
-                              activeClassName="active"
-                              to={`${process.env.PUBLIC_URL}/blog-details`}
-                              className="sub-item"
-                              onClick={this.scrollTop}
-                            >
-                              detalhes do blog{' '}
-                            </NavLink>
-                          </li>
+                          <li></li>
                         </ul>
                       </li>
                       <li className="has-child-menu">
