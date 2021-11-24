@@ -261,11 +261,7 @@ class Footers extends Component {
                           <i className="bx bxl-twitter" />
                         </Link>
                       </li>
-                      <li>
-                        <Link to={'#'}>
-                          <i className="bx bxl-dribbble" />
-                        </Link>
-                      </li>
+                      <li></li>
                     </ul>
                   </div>
                 </div>
@@ -339,14 +335,7 @@ class Footers extends Component {
                               Destinos
                             </Link>
                           </li>
-                          <li>
-                            <Link
-                              to={`${process.env.PUBLIC_URL}/blog`}
-                              onClick={this.scrollTop}
-                            >
-                              Nosso Blogs
-                            </Link>
-                          </li>
+                          <li></li>
                           <li>
                             <Link
                               to={`${process.env.PUBLIC_URL}/package`}
