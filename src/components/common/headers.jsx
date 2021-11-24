@@ -24,13 +24,13 @@ class Headers extends Component {
                   <ul>
                     <li>
                       <i className="bx bxs-phone" />
-                      <a href="tel:+17632275032">+55 763-227-5032</a>
+                      <a href="tel:96-99118-4503">96-99118-4503</a>
                     </li>
 
                     <li>
                       <i className="bx bxs-envelope" />
-                      <a href="mailto:pegacarona@gmail.com">
-                        pegacarona@gmail.com
+                      <a href="mailto:atendimento@pegacarona.com">
+                        atendimento@pegacarona.com
                       </a>
                     </li>
                   </ul>
@@ -145,7 +145,7 @@ class Headers extends Component {
                     </div>
                     <ul>
                       <li className="has-child-menu">
-                        <Link to={'#'}>Pagina inicial</Link>
+                        <Link to={'#'}>Página inicial</Link>
                         <i className="fl flaticon-plus">+</i>
                         <ul className="sub-menu">
                           <li>
@@ -155,7 +155,7 @@ class Headers extends Component {
                               className="sub-item"
                               onClick={this.scrollTop}
                             >
-                              Pagina 1
+                              Página 1
                             </NavLink>
                           </li>
                           <li>
@@ -165,7 +165,7 @@ class Headers extends Component {
                               className="sub-item"
                               onClick={this.scrollTop}
                             >
-                              Pagina 2
+                              Página 2
                             </NavLink>
                           </li>
                         </ul>
@@ -176,7 +176,7 @@ class Headers extends Component {
                           to={`${process.env.PUBLIC_URL}/about-us`}
                           onClick={this.scrollTop}
                         >
-                          Sobre nos
+                          Sobre nós
                         </NavLink>
                       </li>
                       <li>
@@ -245,7 +245,7 @@ class Headers extends Component {
                               className="sub-item"
                               onClick={this.scrollTop}
                             >
-                              pagina do blog
+                              Página do blog
                             </NavLink>
                           </li>
                           <li>
@@ -281,7 +281,7 @@ class Headers extends Component {
                         </ul>
                       </li>
                       <li className="has-child-menu">
-                        <Link to={'#'}>Paginas</Link>
+                        <Link to={'#'}>Páginas</Link>
                         <i className="fl flaticon-plus">+</i>
                         <ul className="sub-menu">
                           <li>
@@ -321,7 +321,7 @@ class Headers extends Component {
                               className="sub-item"
                               onClick={this.scrollTop}
                             >
-                              404 Pagina
+                              404 Página
                             </NavLink>
                           </li>
                           <li>
@@ -331,7 +331,7 @@ class Headers extends Component {
                               className="sub-item"
                               onClick={this.scrollTop}
                             >
-                              FAQ pagina
+                              FAQ Página
                             </NavLink>
                           </li>
                         </ul>
@@ -342,7 +342,7 @@ class Headers extends Component {
                           to={`${process.env.PUBLIC_URL}/contact`}
                           onClick={this.scrollTop}
                         >
-                          Contate nos
+                          Contate-nos
                         </NavLink>
                       </li>
                     </ul>
@@ -384,12 +384,12 @@ class Headers extends Component {
                       <ul>
                         <li className="sidebar-single-contact">
                           <i className="bx bxs-phone" />
-                          <Link to={`tel:+17632275032`}>+55 763-227-5032</Link>
+                          <Link to={`tel:96-99118-4503`}>96-99118-4503</Link>
                         </li>
                         <li className="sidebar-single-contact">
                           <i className="bx bxs-envelope" />
-                          <Link to={`mailto:info@example.com`}>
-                            pegacarona@gmail.com
+                          <Link to={`mailto:atendimento@pegacarona.com`}>
+                            atendimento@pegacarona.com
                           </Link>
                         </li>
                       </ul>

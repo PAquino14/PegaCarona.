@@ -25,7 +25,7 @@ class Packages extends Component {
               <div className="col-lg-12 col-md-12 col-sm-12">
                 <div className="section-head pb-45">
                   <h5>Escolha o seu pacote</h5>
-                  <h2>Seleccione o seu melhor pacote para a sua viagem</h2>
+                  <h2>Selecione o melhor pacote para sua viagem!</h2>
                 </div>
               </div>
             </div>
@@ -48,7 +48,7 @@ class Packages extends Component {
                         <span>$180</span>/Por pessoa
                       </h5>
                       <h5>
-                        <i className="flaticon-calendar" />5 Diass/6 noites
+                        <i className="flaticon-calendar" />5 Dias/6 noites
                       </h5>
                     </div>
                     <h3>

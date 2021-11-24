@@ -103,7 +103,7 @@ class Destinations extends Component {
                       <h3>
                         <i className="flaticon-arrival" />
                         <Link to={`${process.env.PUBLIC_URL}/package-details`}>
-                          Trilha da Samauma - Iha de Santana
+                          Samaúma Santana Ilha
                         </Link>
                       </h3>
                       <div className="package-rating">
@@ -193,7 +193,7 @@ class Destinations extends Component {
                       <h3>
                         <i className="flaticon-arrival" />
                         <Link to={`${process.env.PUBLIC_URL}/package-details`}>
-                          Marco Zero
+                          Marco zero do equador
                         </Link>
                       </h3>
                       <div className="package-rating">
@@ -233,7 +233,7 @@ class Destinations extends Component {
                       <h3>
                         <i className="flaticon-arrival" />
                         <Link to={`${process.env.PUBLIC_URL}/package-details`}>
-                          Marco Zero
+                          Marco zero do equador
                         </Link>
                       </h3>
                       <div className="package-rating">
@@ -295,7 +295,7 @@ class Destinations extends Component {
                       <h3>
                         <i className="flaticon-arrival" />
                         <Link to={`${process.env.PUBLIC_URL}/package-details`}>
-                          Fortaleza São Jose
+                          Fortaleza de São José de Macapá
                         </Link>
                       </h3>
                       <div className="package-rating">

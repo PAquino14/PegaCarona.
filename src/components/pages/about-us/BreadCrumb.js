@@ -15,7 +15,7 @@ class BreadCrumb extends Component {
                   <ul className="breadcrumb-links">
                     <li>
                       <Link to={`${process.env.PUBLIC_URL}/`}>
-                        Pagina inicial
+                        Página inicial
                       </Link>
                       <i className="bx bx-chevron-right" />
                     </li>

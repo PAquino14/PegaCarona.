@@ -188,7 +188,7 @@ input[type='tel'] {
   width: 100%;
   background: #ffffff;
   border: 1px solid #eee;
-  border-radius: 5px;
+  border-radius: 10px;
   height: 50px;
 }
 
@@ -220,7 +220,7 @@ input:focus {
   width: 16px;
   height: 16px;
   border: 1px solid $secondary-color;
-  border-radius: 5px;
+  border-radius: 10px;
   background: #fff;
 }
 [type='radio']:checked + label:after,
@@ -232,7 +232,7 @@ input:focus {
   position: absolute;
   top: 5px;
   left: 3px;
-  border-radius: 5px;
+  border-radius: 10px;
   -webkit-transition: all 0.2s ease;
   transition: all 0.2s ease;
 }
@@ -271,7 +271,7 @@ input[type='submit']:focus {
 textarea {
   padding: 8px 10px;
   background: #ffffff;
-  border-radius: 5px;
+  border-radius: 10px;
   display: block;
   width: 100%;
   border: 1px solid #eee;
@@ -282,7 +282,7 @@ select {
   padding: 8px 10px;
   background: #ffffff;
   border: 1px solid #ffffff;
-  border-radius: 5px;
+  border-radius: 10px;
   display: block;
   width: 100%;
   transition: all 0.4s ease;
@@ -298,7 +298,7 @@ select {
 
 .form-select.package-options {
   border: 2px solid #304f47;
-  border-radius: 5px;
+  border-radius: 10px;
   width: 222px;
   height: 40px;
   font-weight: 700;
@@ -368,7 +368,7 @@ a.btn-common-sm {
   display: inline-block;
   padding: 11px 20px 11px 30px;
   background: $secondary-color;
-  border-radius: 5px;
+  border-radius: 10px;
   font-weight: 600;
   font-size: 14px;
   color: #fff;
@@ -389,7 +389,7 @@ a.btn-common-sm {
     background: $primary-color;
     top: 0;
     left: 0;
-    border-radius: 5px;
+    border-radius: 10px;
     clip-path: circle(27% at -3% 50%);
     transition: all 0.4s;
     z-index: -1;
@@ -400,7 +400,7 @@ a.btn-common {
   display: inline-block;
   padding: 16.5px 32.5px;
   background: $secondary-color;
-  border-radius: 5px;
+  border-radius: 10px;
   font-weight: 600;
   font-size: 16px;
   color: #fff;
@@ -421,7 +421,7 @@ a.btn-common {
     background: $primary-color;
     top: 0;
     left: 0;
-    border-radius: 5px;
+    border-radius: 10px;
     clip-path: circle(27% at -3% 50%);
     transition: all 0.4s;
     z-index: -1;
@@ -431,7 +431,7 @@ a.btn-second {
   display: inline-block;
   padding: 16.5px 32.5px;
   background: $primary-color;
-  border-radius: 5px;
+  border-radius: 10px;
   font-weight: 600;
   font-size: 16px;
   color: #fff;
@@ -534,7 +534,7 @@ a {
     background: $secondary-color;
     transition: all 0.3s;
     margin: 0 12.5px;
-    border-radius: 5px;
+    border-radius: 10px;
   }
   button.active.owl-dot {
     height: 15px;
@@ -672,7 +672,7 @@ a {
   width: 255px;
   float: right;
   border: 2px solid #304f47;
-  border-radius: 5px;
+  border-radius: 10px;
 
   .select-selected {
     font-size: 15px;
@@ -721,7 +721,7 @@ a {
   padding: 17px 16px;
   cursor: pointer;
   user-select: none;
-  border-radius: 5px;
+  border-radius: 10px;
   font-weight: 700;
   font-size: 13px;
   line-height: 16px;
@@ -1459,7 +1459,7 @@ header > .header-area .nav-right {
     max-width: 980px;
     margin: 0 auto;
     box-shadow: 0px 0px 64px rgba(17, 17, 17, 0.1);
-    border-radius: 20px;
+    border-radius: 10px;
     .find-btn {
       a {
         text-align: center;
@@ -1523,8 +1523,8 @@ header > .header-area .nav-right {
   .findfrom-wrapper {
     background: #3f7ff67a;
     box-shadow: 0px 32px 64px rgba(17, 17, 17, 0.08);
-    border-radius: 20px;
-    padding: 12px 12px;
+    border-radius: 10px;
+    padding: 10px 10px;
     max-width: 980px;
     margin: 0 auto;
     .find-btn {
@@ -1981,7 +1981,7 @@ header > .header-area .nav-right {
   background: $secondary-color;
   color: #fff;
   box-shadow: 0px 0px 64px rgba(17, 17, 17, 0.1);
-  border-radius: 5px;
+  border-radius: 10px;
 
   .achievement-icon {
     margin-bottom: 20px;
@@ -2004,7 +2004,7 @@ header > .header-area .nav-right {
   overflow: hidden;
   margin-top: 20px;
   position: relative;
-  border-radius: 5px;
+  border-radius: 10px;
   text-align: center;
   box-shadow: 0px 0px 64px rgba(17, 17, 17, 0.1);
 
@@ -2210,7 +2210,7 @@ header > .header-area .nav-right {
 
 .feature-card-2 {
   margin: 20px 0;
-  border-radius: 5px;
+  border-radius: 10px;
   overflow: hidden;
 
   &:hover {
@@ -3028,7 +3028,7 @@ header > .header-area .nav-right {
         a {
           padding: 14px 35px;
           background: #ff7f47;
-          border-radius: 5px;
+          border-radius: 10px;
           font-weight: 600;
           font-size: 16px;
           letter-spacing: 0.75px;
@@ -3217,7 +3217,7 @@ header > .header-area .nav-right {
         a {
           padding: 14px 35px;
           background: #ff7f47;
-          border-radius: 5px;
+          border-radius: 10px;
           font-weight: 600;
           font-size: 16px;
           letter-spacing: 0.75px;
@@ -3308,7 +3308,7 @@ li.package-card-sm {
     max-width: 135px;
     margin-right: 25px;
     img {
-      border-radius: 5px;
+      border-radius: 10px;
     }
   }
 
@@ -3342,7 +3342,7 @@ li.package-card-sm {
 .package-details {
   .package-thumb {
     img {
-      border-radius: 5px;
+      border-radius: 10px;
       width: 100%;
     }
   }
@@ -4035,7 +4035,7 @@ li.package-card-sm {
         a {
           padding: 16px 32px;
           background: #ff7f47;
-          border-radius: 5px;
+          border-radius: 10px;
           font-weight: 600;
           font-size: 16px;
           letter-spacing: 0.75px;
@@ -4512,7 +4512,7 @@ li.package-card-sm {
     img {
       width: 100%;
       object-fit: cover;
-      border-radius: 5px;
+      border-radius: 10px;
     }
   }
 }

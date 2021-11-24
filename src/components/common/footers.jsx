@@ -4,7 +4,7 @@ import $ from 'jquery';
 
 //Import Image
 import secondLogo from '../../assets/images/logo-2.png';
-import paymentCard1Img from '../../assets/images/payment/payment-card-1.png';
+import paymentCard1Img from '../../assets/images/payment/pix.png';
 import paymentCard2Img from '../../assets/images/payment/payment-card-2.png';
 import paymentCard3Img from '../../assets/images/payment/payment-card-3.png';
 import paymentCard4Img from '../../assets/images/payment/payment-card-4.png';
@@ -206,10 +206,7 @@ class Footers extends Component {
             <div className="row">
               <div className="col-lg-12 col-md-12">
                 <div className="newsletter-wrapper">
-                  <h2>
-                    Subscreva o nosso boletim informativo para obter as últimas
-                    atualizações
-                  </h2>
+                  <h2>Receba nossos boletins informativos</h2>
                   <form>
                     <div className="input-group newsletter-input">
                       <input
@@ -245,7 +242,7 @@ class Footers extends Component {
                     <img src={secondLogo} alt="" className="img-fluid" />
                   </div>
                   <p>Tenha experiencias incriveis</p>
-                  <p>Pegue uma Caron conosco</p>
+                  <p>Pegue uma Carona conosco</p>
                   <div className="footer-social-icons">
                     <h5>Siga-nos:</h5>
                     <ul>
@@ -277,14 +274,14 @@ class Footers extends Component {
                 <div className="row">
                   <div className="col-lg-5 col-md-5 col-sm-7">
                     <div className="footer-links">
-                      <h5 className="widget-title">contate nos</h5>
+                      <h5 className="widget-title">Contate-nos </h5>
                       <div className="contact-box">
                         <span>
                           <i className="bx bx-phone" />
                         </span>
                         <div>
-                          <a href="tel:+01852-1265122">+01852-1265122</a>
-                          <a href="tel:+01852-1265122">+01852-1265122</a>
+                          <a href="tel:96-99118-4503">96-99118-4503</a>
+                          <a href="tel:96-99118-4503">96-99118-4503</a>
                         </div>
                       </div>
                       <div className="contact-box">
@@ -292,11 +289,11 @@ class Footers extends Component {
                           <i className="bx bx-mail-send" />
                         </span>
                         <div>
-                          <a href="mailto:info@example.com">
-                            pegacarona@gmail.com
+                          <a href="mailto:atendimento@pegacarona.com">
+                            atendimento@pegacarona.com
                           </a>
-                          <a href="mailto:support@example.com">
-                            pegacarona@gmail.com
+                          <a href="mailto:atendimento@pegacarona.com">
+                            atendimento@pegacarona.com
                           </a>
                         </div>
                       </div>
@@ -306,7 +303,7 @@ class Footers extends Component {
                         </span>
                         <div>
                           <Link to={'#'}>
-                            27 rua tall <br />
+                            Rua Elshadai, 554 - Infraero II. <br />
                             Macapa, Amapa
                           </Link>
                         </div>
@@ -323,7 +320,7 @@ class Footers extends Component {
                               to={`${process.env.PUBLIC_URL}/contact`}
                               onClick={this.scrollTop}
                             >
-                              Contate nos
+                              Contate-nos
                             </Link>
                           </li>
                           <li>
@@ -402,8 +399,8 @@ class Footers extends Component {
               <div className="col-lg-12">
                 <div className="copyrigth-area">
                   <p>
-                    Direitos autorais 2021 <Link to={`#`}>PegaCarona</Link> |
-                    Design By <Link to={`#`}>Egens Lab</Link>
+                    Direitos autorais 2021 <Link to={`#`}>PegaCarona</Link>{' '}
+                    <Link to={`#`}></Link>
                   </p>
                 </div>
               </div>

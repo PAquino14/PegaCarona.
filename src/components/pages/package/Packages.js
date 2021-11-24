@@ -41,7 +41,7 @@ class Packages extends Component {
               <div className="col-lg-12 col-md-12 col-sm-12">
                 <div className="section-head pb-45">
                   <h5>Personalize Seu Pacote</h5>
-                  <h2>Seleccione os locais para a sua viagem</h2>
+                  <h2>Selecione o melhor pacote para sua viagem!</h2>
                 </div>
               </div>
             </div>

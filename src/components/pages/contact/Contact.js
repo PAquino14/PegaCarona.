@@ -20,13 +20,13 @@ class AboutUs extends Component {
             <div className="row">
               <div className="col-lg-12 col-md-12 col-sm-12">
                 <div className="breadcrumb-wrap">
-                  <h2>Contate nos</h2>
+                  <h2>Contate-nos </h2>
                   <ul className="breadcrumb-links">
                     <li>
                       <Link to={`${process.env.PUBLIC_URL}/`}>Inicio</Link>
                       <i className="bx bx-chevron-right" />
                     </li>
-                    <li>Contate nos</li>
+                    <li>Contate-nos </li>
                   </ul>
                 </div>
               </div>
@@ -127,7 +127,7 @@ class AboutUs extends Component {
                 <div className="col-lg-6">
                   <div className="contact-form">
                     <form action="#">
-                      <h5 className="contact-d-head">Contate nos</h5>
+                      <h5 className="contact-d-head">Contate-nos </h5>
                       <div className="row">
                         <div className="col-lg-6">
                           <input

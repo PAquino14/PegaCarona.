@@ -97,7 +97,7 @@ class MainBanner extends Component {
                       to={`${process.env.PUBLIC_URL}/package`}
                       className="btn-common"
                     >
-                      Ver agora
+                      Ver Agora
                     </Link>
                   </div>
                 </div>
@@ -135,8 +135,8 @@ class MainBanner extends Component {
                 <div className="col-lg-3">
                   <input
                     type="text"
-                    name="para onde"
-                    placeholder="para onde..."
+                    name="de onde"
+                    placeholder="de  onde , para onde..."
                   />
                 </div>
                 <div className="col-lg-3">
