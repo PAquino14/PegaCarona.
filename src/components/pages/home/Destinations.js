@@ -174,36 +174,6 @@ class Destinations extends Component {
                       </div>
                     </div>
                   </div>
-                  <div className="package-card">
-                    <div className="package-thumb">
-                      <Link to={`${process.env.PUBLIC_URL}/package-details`}>
-                        <img
-                          src={destinations7Img}
-                          alt=""
-                          className="img-fluid"
-                        />
-                      </Link>
-                    </div>
-                    <div className="package-details">
-                      <div className="package-info">
-                        <h5>
-                          <span>$120</span>/Por pessoa
-                        </h5>
-                      </div>
-                      <h3>
-                        <i className="flaticon-arrival" />
-                        <Link to={`${process.env.PUBLIC_URL}/package-details`}>
-                          Marco zero do equador
-                        </Link>
-                      </h3>
-                      <div className="package-rating">
-                        <i className="bx bxs-star" />
-                        <strong>
-                          <span>1.3K+</span> Classificação
-                        </strong>
-                      </div>
-                    </div>
-                  </div>
                 </OwlCarousel>
               </div>
             </div>
@@ -296,37 +266,6 @@ class Destinations extends Component {
                         <i className="flaticon-arrival" />
                         <Link to={`${process.env.PUBLIC_URL}/package-details`}>
                           Fortaleza de São José de Macapá
-                        </Link>
-                      </h3>
-                      <div className="package-rating">
-                        <i className="bx bxs-star" />
-                        <strong>
-                          <span>1.3K+</span> Classificação
-                        </strong>
-                      </div>
-                    </div>
-                  </div>
-
-                  <div className="package-card">
-                    <div className="package-thumb">
-                      <Link to={`${process.env.PUBLIC_URL}/package-details`}>
-                        <img
-                          src={destinations10Img}
-                          alt=""
-                          className="img-fluid"
-                        />
-                      </Link>
-                    </div>
-                    <div className="package-details">
-                      <div className="package-info">
-                        <h5>
-                          <span>$120</span>/Por pessoa
-                        </h5>
-                      </div>
-                      <h3>
-                        <i className="flaticon-arrival" />
-                        <Link to={`${process.env.PUBLIC_URL}/package-details`}>
-                          praça floriano peixoto, Macapá
                         </Link>
                       </h3>
                       <div className="package-rating">
