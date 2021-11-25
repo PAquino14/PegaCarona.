@@ -65,7 +65,7 @@ class Destinations extends Component {
               <div className="col-lg-12 col-md-12 col-sm-12">
                 <div className="section-head pb-40">
                   <h5>Escolha o seu pacote</h5>
-                  <h2>Seleccione o seu melhor pacote para a sua viagem</h2>
+                  <h2>Selecione o seu melhor pacote para a sua viagem</h2>
                 </div>
               </div>
             </div>

@@ -17,7 +17,7 @@ import gallery16Img from '../../../assets/images/gallary/gl-16.png';
 import gallery15Img from '../../../assets/images/gallary/gl-15.png';
 import gallery14Img from '../../../assets/images/gallary/gl-14.png';
 
-import galleryGxx1Img from '../../../assets/images/gallary/g-xxl-1.png';
+import galleryGxx1Img from '../../../assets/images/gallary/pp.png';
 import galleryGxx2Img from '../../../assets/images/gallary/g-xxl-2.png';
 import galleryGxx3Img from '../../../assets/images/gallary/g-xxl-3.png';
 import galleryGxx4Img from '../../../assets/images/gallary/g-xxl-4.png';

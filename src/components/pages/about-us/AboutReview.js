@@ -56,7 +56,7 @@ class AboutReview extends Component {
               <div className="col-lg-12 col-md-12 col-sm-12">
                 <div className="section-head pb-40">
                   <h5>Diz o nosso Viajante</h5>
-                  <h2>Oque o viajante diz sobre nós</h2>
+                  <h2>O que o viajante diz sobre nós</h2>
                 </div>
               </div>
             </div>

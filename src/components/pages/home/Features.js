@@ -5,8 +5,8 @@ import 'owl.carousel/dist/assets/owl.theme.default.css';
 import { Link } from 'react-router-dom';
 
 //Import Images
-import features1Img from '../../../assets/images/feature/logo 2.png';
-import features2Img from '../../../assets/images/feature/logo 2.png';
+import features1Img from '../../../assets/images/feature/pg.png';
+import features2Img from '../../../assets/images/feature/pg.png';
 
 class Features extends Component {
   constructor(props) {
@@ -55,7 +55,7 @@ class Features extends Component {
               <div className="col-lg-12 col-md-12 col-sm-12">
                 <div className="section-head pb-60">
                   <h5>Excursões em Destaque</h5>
-                  <h2>Ver os nossos melhores destinos populares</h2>
+                  <h2>Conheça os nossos melhores destinos populares</h2>
                 </div>
               </div>
             </div>

@@ -6,17 +6,17 @@ import 'owl.carousel/dist/assets/owl.theme.default.css';
 import { Link } from 'react-router-dom';
 
 //Import Images
-import destinations1Img from '../../../assets/images/destination/d-1.png';
-import destinations4Img from '../../../assets/images/destination/d-4.png';
-import destinations5Img from '../../../assets/images/destination/d-5.png';
-import destinations6Img from '../../../assets/images/destination/d-6.png';
-import destinations7Img from '../../../assets/images/destination/d-7.png';
-import destinations8Img from '../../../assets/images/destination/d-8.png';
-import destinations9Img from '../../../assets/images/destination/d-9.png';
-import destinations10Img from '../../../assets/images/destination/d-10.png';
-import destinations11Img from '../../../assets/images/destination/d-11.png';
-import destinations2Img from '../../../assets/images/destination/d-2.png';
-import destinations3Img from '../../../assets/images/destination/d-3.png';
+import destinations1Img from '../../../assets/images/destination/logo1.png';
+import destinations4Img from '../../../assets/images/destination/logo.png';
+import destinations5Img from '../../../assets/images/destination/logo.png';
+import destinations6Img from '../../../assets/images/destination/logo.png';
+import destinations7Img from '../../../assets/images/destination/logo.png';
+import destinations8Img from '../../../assets/images/destination/logo.png';
+import destinations9Img from '../../../assets/images/destination/logo.png';
+import destinations10Img from '../../../assets/images/destination/logo.png';
+import destinations11Img from '../../../assets/images/destination/logo.png';
+import destinations2Img from '../../../assets/images/destination/logo1.png';
+import destinations3Img from '../../../assets/images/destination/logo1.png';
 
 class AboutUs extends Component {
   render() {
@@ -62,7 +62,7 @@ class AboutUs extends Component {
               <div className="col-lg-12 col-md-12 col-sm-12">
                 <div className="section-head pb-40">
                   <h5>Escolha o seu pacote</h5>
-                  <h2>Seleja o seu melhor pacote para a sua viagem</h2>
+                  <h2>Selecione o melhor pacote para sua viagem</h2>
                 </div>
               </div>
             </div>
@@ -71,7 +71,7 @@ class AboutUs extends Component {
                 <div className="package-slider-wrap">
                   <img src={destinations1Img} alt="" className="img-fluid" />
                   <div className="pakage-overlay">
-                    <strong>Macapa</strong>
+                    <strong>Macapá</strong>
                   </div>
                 </div>
               </div>
@@ -129,7 +129,7 @@ class AboutUs extends Component {
                       <h3>
                         <i className="flaticon-arrival" />
                         <Link to={`${process.env.PUBLIC_URL}/package-details`}>
-                          Fortaleza sao jose
+                          Fortaleza São José
                         </Link>
                       </h3>
                       <div className="package-rating">
@@ -348,7 +348,7 @@ class AboutUs extends Component {
                 <div className="package-slider-wrap">
                   <img src={destinations3Img} alt="" className="img-fluid" />
                   <div className="pakage-overlay">
-                    <strong>Cutias</strong>
+                    <strong>Cutias do Aragurari</strong>
                   </div>
                 </div>
               </div>

@@ -241,8 +241,8 @@ class Footers extends Component {
                   <div className="footer-logo">
                     <img src={secondLogo} alt="" className="img-fluid" />
                   </div>
-                  <p>Tenha experiencias incriveis</p>
-                  <p>Pegue uma Carona conosco</p>
+                  <p>Tenha uma experiência incrível</p>
+                  <p>Pegue uma Carona</p>
                   <div className="footer-social-icons">
                     <h5>Siga-nos:</h5>
                     <ul>
@@ -300,7 +300,7 @@ class Footers extends Component {
                         <div>
                           <Link to={'#'}>
                             Rua Elshadai, 554 - Infraero II. <br />
-                            Macapa, Amapa
+                            Macapá, Amapá
                           </Link>
                         </div>
                       </div>
@@ -308,7 +308,7 @@ class Footers extends Component {
                   </div>
                   <div className="col-lg-3 col-md-3 col-sm-5">
                     <div className="footer-links">
-                      <h5 className="widget-title">support</h5>
+                      <h5 className="widget-title">Suporte</h5>
                       <div className="category-list">
                         <ul>
                           <li>
@@ -324,7 +324,7 @@ class Footers extends Component {
                               to={`${process.env.PUBLIC_URL}/about-us`}
                               onClick={this.scrollTop}
                             >
-                              sobre nos
+                              Sobre-Nos
                             </Link>
                           </li>
                           <li>

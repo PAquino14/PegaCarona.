@@ -70,7 +70,7 @@ class MainBanner extends Component {
                   data-wow-delay="300ms"
                   data-wow-duration="1500ms"
                 >
-                  <h2>Incrivel visita ao Amapá </h2>
+                  <h2>Incrível visita ao Amapá </h2>
                   <h5>4 Dias</h5>
                   <div className="banner-btn">
                     <Link
@@ -90,7 +90,7 @@ class MainBanner extends Component {
                   data-wow-delay="300ms"
                   data-wow-duration="1500ms"
                 >
-                  <h2>Incrivel visita a Ferreira Gomes </h2>
+                  <h2>Incrível visita a Ferreira Gomes </h2>
                   <h5>7 Dias</h5>
                   <div className="banner-btn">
                     <Link
@@ -110,7 +110,7 @@ class MainBanner extends Component {
                   data-wow-delay="300ms"
                   data-wow-duration="1500ms"
                 >
-                  <h2>Incrivel Visita a Laranjal do Jari</h2>
+                  <h2>Incrível Visita a Laranjal do Jari</h2>
                   <h5>7 Dias, 8 Noites</h5>
                   <div className="banner-btn">
                     <Link
