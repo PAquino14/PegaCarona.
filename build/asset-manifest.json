@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.996de406.chunk.css",
-    "main.js": "/static/js/main.d4413f84.chunk.js",
-    "main.js.map": "/static/js/main.d4413f84.chunk.js.map",
+    "main.css": "/static/css/main.c4893c7d.chunk.css",
+    "main.js": "/static/js/main.f01d39d2.chunk.js",
+    "main.js.map": "/static/js/main.f01d39d2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5364f96e.js",
     "runtime-main.js.map": "/static/js/runtime-main.5364f96e.js.map",
     "static/css/2.ce3a3f4c.chunk.css": "/static/css/2.ce3a3f4c.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.b3460062.chunk.js.map": "/static/js/2.b3460062.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.ce3a3f4c.chunk.css.map": "/static/css/2.ce3a3f4c.chunk.css.map",
-    "static/css/main.996de406.chunk.css.map": "/static/css/main.996de406.chunk.css.map",
+    "static/css/main.c4893c7d.chunk.css.map": "/static/css/main.c4893c7d.chunk.css.map",
     "static/js/2.b3460062.chunk.js.LICENSE.txt": "/static/js/2.b3460062.chunk.js.LICENSE.txt",
     "static/media/404.16338b63.png": "/static/media/404.16338b63.png",
     "static/media/Login.module.css": "/static/media/PG 13 (3).d67ecd89.png",
@@ -99,7 +99,6 @@
     "static/media/guide-8.61040917.png": "/static/media/guide-8.61040917.png",
     "static/media/guide-9.4a5b842c.png": "/static/media/guide-9.4a5b842c.png",
     "static/media/jari.c42f8bbd.png": "/static/media/jari.c42f8bbd.png",
-    "static/media/logo 2.330406b5.png": "/static/media/logo 2.330406b5.png",
     "static/media/logo.b2625256.png": "/static/media/logo.b2625256.png",
     "static/media/logo1.3e79556c.png": "/static/media/logo1.3e79556c.png",
     "static/media/macapa.073adf87.png": "/static/media/macapa.073adf87.png",
@@ -124,6 +123,7 @@
     "static/media/p-sm-4.28b1947b.png": "/static/media/p-sm-4.28b1947b.png",
     "static/media/pagamentos.9f3a7bcf.png": "/static/media/pagamentos.9f3a7bcf.png",
     "static/media/pd-thumb.8d669596.png": "/static/media/pd-thumb.8d669596.png",
+    "static/media/pg.90c58879.png": "/static/media/pg.90c58879.png",
     "static/media/pix.bc51bcc3.png": "/static/media/pix.bc51bcc3.png",
     "static/media/pp.b09a3224.png": "/static/media/pp.b09a3224.png",
     "static/media/pv-1.1d749116.png": "/static/media/pv-1.1d749116.png",
@@ -148,7 +148,7 @@
     "static/js/runtime-main.5364f96e.js",
     "static/css/2.ce3a3f4c.chunk.css",
     "static/js/2.b3460062.chunk.js",
-    "static/css/main.996de406.chunk.css",
-    "static/js/main.d4413f84.chunk.js"
+    "static/css/main.c4893c7d.chunk.css",
+    "static/js/main.f01d39d2.chunk.js"
   ]
 }

@@ -97,13 +97,13 @@ class Destinations extends Component {
                     <div className="package-details">
                       <div className="package-info">
                         <h5>
-                          <span>$145</span>/Por pessoa
+                          <span>R$145</span>/Por pessoa
                         </h5>
                       </div>
                       <h3>
                         <i className="flaticon-arrival" />
                         <Link to={`${process.env.PUBLIC_URL}/package-details`}>
-                          Samaúma Santana Ilha
+                          Ilha samaúma
                         </Link>
                       </h3>
                       <div className="package-rating">
@@ -127,13 +127,13 @@ class Destinations extends Component {
                     <div className="package-details">
                       <div className="package-info">
                         <h5>
-                          <span>$240</span>/Por pessoa
+                          <span>R$240</span>/Por pessoa
                         </h5>
                       </div>
                       <h3>
                         <i className="flaticon-arrival" />
                         <Link to={`${process.env.PUBLIC_URL}/package-details`}>
-                          Igarapé Fortaleza
+                          Igarapé da fortaleza
                         </Link>
                       </h3>
                       <div className="package-rating">
@@ -157,7 +157,7 @@ class Destinations extends Component {
                     <div className="package-details">
                       <div className="package-info">
                         <h5>
-                          <span>$300</span>/ Por pessoa
+                          <span>R$300</span>/ Por pessoa
                         </h5>
                       </div>
                       <h3>
@@ -197,7 +197,7 @@ class Destinations extends Component {
                     <div className="package-details">
                       <div className="package-info">
                         <h5>
-                          <span>$145</span>/Por pessoa
+                          <span>R$145</span>/Por pessoa
                         </h5>
                       </div>
                       <h3>
@@ -228,7 +228,7 @@ class Destinations extends Component {
                     <div className="package-details">
                       <div className="package-info">
                         <h5>
-                          <span>$240</span>/Por pessoa
+                          <span>R$240</span>/Por pessoa
                         </h5>
                       </div>
                       <h3>
@@ -259,7 +259,7 @@ class Destinations extends Component {
                     <div className="package-details">
                       <div className="package-info">
                         <h5>
-                          <span>$300</span>/Por pessoa
+                          <span>R$300</span>/Por pessoa
                         </h5>
                       </div>
                       <h3>

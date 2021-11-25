@@ -78,7 +78,15 @@ class MainBanner extends Component {
               <form className="findfrom-wrapper">
                 <div className="row">
                   <div className="col-lg-3">
-                    <input type="text" placeholder="para onde..." />
+                    <input type="text" placeholder="de onde..." />
+                  </div>
+
+                  <div className="col-lg-3">
+                    <input
+                      type="text"
+                      name="de onde"
+                      placeholder="para onde..."
+                    />
                   </div>
                   <div className="col-lg-3">
                     <div className="calendar-input">
@@ -93,18 +101,7 @@ class MainBanner extends Component {
                       <i className="flaticon-calendar" />
                     </div>
                   </div>
-                  <div className="col-lg-3">
-                    <div className="custom-select">
-                      <select>
-                        <option value={0}>Tipo de viagem</option>
-                        <option value={1}>viagem pela cidade</option>
-                        <option value={2}>Excursões de férias</option>
-                        <option value={3}>Excursões de Casal </option>
-                        <option value={4}>Passeios de Aventura</option>
-                        <option value={5}>Excursões em Grupos</option>
-                      </select>
-                    </div>
-                  </div>
+
                   <div className="col-lg-3">
                     <div className="find-btn">
                       <Link to={'#'} className="btn-second">

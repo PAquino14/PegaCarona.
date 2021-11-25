@@ -61,7 +61,7 @@ class Packages extends Component {
                   <div className="package-details">
                     <div className="package-info">
                       <h5>
-                        <span>$180</span>/Por pessoa
+                        <span>R$180</span>/Por pessoa
                       </h5>
                       <h5>
                         <i className="flaticon-calendar" />5 Dias
@@ -97,7 +97,7 @@ class Packages extends Component {
                   <div className="package-details">
                     <div className="package-info">
                       <h5>
-                        <span>$280</span>/Por pessoa
+                        <span>R$1200</span>/Por pessoa
                       </h5>
                       <h5>
                         <i className="flaticon-calendar" />
@@ -134,7 +134,7 @@ class Packages extends Component {
                   <div className="package-details">
                     <div className="package-info">
                       <h5>
-                        <span>$120</span>/Por pessoa
+                        <span>R$120</span>/Por pessoa
                       </h5>
                       <h5>
                         <i className="flaticon-calendar" />5 Dias/6 noites
@@ -170,7 +170,7 @@ class Packages extends Component {
                   <div className="package-details">
                     <div className="package-info">
                       <h5>
-                        <span>$300</span>/Por pessoa
+                        <span>R$300</span>/Por pessoa
                       </h5>
                       <h5>
                         <i className="flaticon-calendar" />5 Dias/6 noites
@@ -206,7 +206,7 @@ class Packages extends Component {
                   <div className="package-details">
                     <div className="package-info">
                       <h5>
-                        <span>$240</span>/Por pessoa
+                        <span>R$210</span>/Por pessoa
                       </h5>
                       <h5>
                         <i className="flaticon-calendar" />5 Dias/6 noites
@@ -278,7 +278,7 @@ class Packages extends Component {
                   <div className="package-details">
                     <div className="package-info">
                       <h5>
-                        <span>$180</span>/Por pessoa
+                        <span>R$180</span>/Por pessoa
                       </h5>
                       <h5>
                         <i className="flaticon-calendar" />5 Dias/6 noites
@@ -314,7 +314,7 @@ class Packages extends Component {
                   <div className="package-details">
                     <div className="package-info">
                       <h5>
-                        <span>$280</span>/Por pessoa
+                        <span>R$1200</span>/Por pessoa
                       </h5>
                       <h5>
                         <i className="flaticon-calendar" />5 Dias/6 noites
@@ -350,7 +350,7 @@ class Packages extends Component {
                   <div className="package-details">
                     <div className="package-info">
                       <h5>
-                        <span>$120</span>/Por pessoa
+                        <span>R$120</span>/Por pessoa
                       </h5>
                       <h5>
                         <i className="flaticon-calendar" />5 Dias/6 noites
@@ -386,7 +386,7 @@ class Packages extends Component {
                   <div className="package-details">
                     <div className="package-info">
                       <h5>
-                        <span>$300</span>/Por pessoa
+                        <span>R$300</span>/Por pessoa
                       </h5>
                       <h5>
                         <i className="flaticon-calendar" />5 Dias/6 noites
@@ -422,7 +422,7 @@ class Packages extends Component {
                   <div className="package-details">
                     <div className="package-info">
                       <h5>
-                        <span>$240</span>/Por pessoa
+                        <span>R$210</span>/Por pessoa
                       </h5>
                       <h5>
                         <i className="flaticon-calendar" />5 Dias/6 noites
