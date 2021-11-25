@@ -45,7 +45,7 @@ class AboutUs extends Component {
                     </div>
                     <div className="contact-info">
                       <h5>Endereço</h5>
-                      <p>Endereço a Definir</p>
+                      <p>Rua Elshadai, 554 - Infraero II.</p>
                     </div>
                   </div>
                 </div>
@@ -101,7 +101,7 @@ class AboutUs extends Component {
                 <div className="col-lg-6">
                   <div className="contact-details">
                     <h5 className="contact-d-head">Entre em contato</h5>
-                    <p>A definir</p>
+                    <p>De segunda a sexta</p>
                     <ul className="office-clock">
                       <li>
                         <div className="clock-icon">
@@ -109,7 +109,7 @@ class AboutUs extends Component {
                         </div>
                         <div className="clock-info">
                           <h5>Aberto</h5>
-                          <p>A definir</p>
+                          <p> 8:00</p>
                         </div>
                       </li>
                       <li>
@@ -117,8 +117,8 @@ class AboutUs extends Component {
                           <i className="flaticon-clock-1" />
                         </div>
                         <div className="clock-info">
-                          <h5>Hora de encerramento</h5>
-                          <p>Encerramento do escritório de sexta-feira</p>
+                          <h5>17:00 </h5>
+                          <p></p>
                         </div>
                       </li>
                     </ul>
